@@ -1,6 +1,6 @@
 # Basic Hulu Webpage Clone
 
-![Hulu Clone](screenshot.png)
+![Hulu Clone](https://github.com/ParadoxAnubhav20/hulu_clone/releases/download/screenshot/Screenshot.2023-09-15.094831.png)
 
 A simple Hulu webpage clone using HTML, CSS, and a bit of JavaScript.
 
