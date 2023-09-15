@@ -24,12 +24,3 @@ cd hulu-clone
 ## Usage
 
 Open `index.html` in your browser to view the clone.
-
-## Contributing
-
-Contributions welcome! Follow the [Contributor Covenant](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License.
-
